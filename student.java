@@ -1,4 +1,4 @@
-class Student {
+class student {
     public static void main(String args[]) {
         if (args.length < 3) {
             System.out.println("Please provide name, rollno, and dept as command-line arguments.");
